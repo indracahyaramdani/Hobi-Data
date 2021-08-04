@@ -1,0 +1,150 @@
+movie_a,movie_b,size
+21 Jump Street,Atlas Shrugged: Part 1,1
+21 Jump Street,Avengers: Infinity War - Part I,3
+21 Jump Street,Bad Boys,7
+21 Jump Street,Bad Teacher,8
+21 Jump Street,Battle: Los Angeles,2
+21 Jump Street,Bridesmaids,12
+21 Jump Street,Captain America,2
+21 Jump Street,Carnage,2
+21 Jump Street,Cars 2,1
+21 Jump Street,Fast Food Nation,2
+21 Jump Street,Green Lantern,4
+21 Jump Street,Oldboy,2
+21 Jump Street,Rio,3
+21 Jump Street,Thor,12
+Alvin and the Chipmunks: Chipwrecked,Captain America,1
+Alvin and the Chipmunks: Chipwrecked,Rio,1
+Atlas Shrugged: Part 1,21 Jump Street,1
+Atlas Shrugged: Part 1,Bad Boys,1
+Atlas Shrugged: Part 1,Captain America,2
+Atlas Shrugged: Part 1,Carnage,1
+Atlas Shrugged: Part 1,Thor,1
+Avengers: Infinity War - Part I,21 Jump Street,3
+Avengers: Infinity War - Part I,Bad Boys,3
+Avengers: Infinity War - Part I,Bad Teacher,2
+Avengers: Infinity War - Part I,Battle: Los Angeles,1
+Avengers: Infinity War - Part I,Bridesmaids,1
+Avengers: Infinity War - Part I,Carnage,1
+Avengers: Infinity War - Part I,Cars 2,1
+Avengers: Infinity War - Part I,Fast Food Nation,1
+Avengers: Infinity War - Part I,Green Lantern,4
+Avengers: Infinity War - Part I,Oldboy,1
+Avengers: Infinity War - Part I,Rio,2
+Avengers: Infinity War - Part I,Thor,6
+Bad Boys,21 Jump Street,7
+Bad Boys,Atlas Shrugged: Part 1,1
+Bad Boys,Avengers: Infinity War - Part I,3
+Bad Boys,Bad Teacher,4
+Bad Boys,Battle: Los Angeles,2
+Bad Boys,Bridesmaids,4
+Bad Boys,Captain America,2
+Bad Boys,Carnage,2
+Bad Boys,Cars 2,1
+Bad Boys,Fast Food Nation,2
+Bad Boys,Green Lantern,4
+Bad Boys,Oldboy,1
+Bad Boys,Rio,2
+Bad Boys,Thor,8
+Bad Teacher,21 Jump Street,8
+Bad Teacher,Avengers: Infinity War - Part I,2
+Bad Teacher,Bad Boys,4
+Bad Teacher,Battle: Los Angeles,2
+Bad Teacher,Bridesmaids,5
+Bad Teacher,Carnage,1
+Bad Teacher,Cars 2,1
+Bad Teacher,Fast Food Nation,1
+Bad Teacher,Green Lantern,3
+Bad Teacher,Oldboy,1
+Bad Teacher,Rio,1
+Bad Teacher,Thor,6
+Battle: Los Angeles,21 Jump Street,2
+Battle: Los Angeles,Avengers: Infinity War - Part I,1
+Battle: Los Angeles,Bad Boys,2
+Battle: Los Angeles,Bad Teacher,2
+Battle: Los Angeles,Bridesmaids,3
+Battle: Los Angeles,Carnage,1
+Battle: Los Angeles,Cars 2,1
+Battle: Los Angeles,Green Lantern,3
+Battle: Los Angeles,Rio,1
+Battle: Los Angeles,Thor,4
+Beastly,Bridesmaids,1
+Bridesmaids,21 Jump Street,12
+Bridesmaids,Avengers: Infinity War - Part I,1
+Bridesmaids,Bad Boys,4
+Bridesmaids,Bad Teacher,5
+Bridesmaids,Battle: Los Angeles,3
+Bridesmaids,Beastly,1
+Bridesmaids,Carnage,1
+Bridesmaids,Cars 2,2
+Bridesmaids,Green Lantern,6
+Bridesmaids,Rio,3
+Bridesmaids,Thor,9
+Captain America,21 Jump Street,2
+Captain America,Alvin and the Chipmunks: Chipwrecked,1
+Captain America,Atlas Shrugged: Part 1,2
+Captain America,Bad Boys,2
+Captain America,Captain America,2
+Captain America,Carnage,2
+Captain America,Thor,2
+Carnage,21 Jump Street,2
+Carnage,Atlas Shrugged: Part 1,1
+Carnage,Avengers: Infinity War - Part I,1
+Carnage,Bad Boys,2
+Carnage,Bad Teacher,1
+Carnage,Battle: Los Angeles,1
+Carnage,Bridesmaids,1
+Carnage,Captain America,2
+Carnage,Green Lantern,1
+Carnage,Thor,2
+Cars 2,21 Jump Street,1
+Cars 2,Avengers: Infinity War - Part I,1
+Cars 2,Bad Boys,1
+Cars 2,Bad Teacher,1
+Cars 2,Battle: Los Angeles,1
+Cars 2,Bridesmaids,2
+Cars 2,Green Lantern,1
+Cars 2,Rio,2
+Cars 2,Thor,2
+Fast Food Nation,21 Jump Street,2
+Fast Food Nation,  Avengers: Infinity War - Part I,1
+Fast Food Nation,Bad Boys,2
+Fast Food Nation,Bad Teacher,1
+Fast Food Nation,Oldboy,1
+Green Lantern,21 Jump Street,4
+Green Lantern,Avengers: Infinity War - Part I,4
+Green Lantern,Bad Boys,4
+Green Lantern,Bad Teacher,3
+Green Lantern,Battle: Los Angeles,3
+Green Lantern,Bridesmaids,6
+Green Lantern,Carnage,1
+Green Lantern,Cars 2,1
+Green Lantern,Rio,1
+Green Lantern,Thor,10
+Oldboy,21 Jump Street,2
+Oldboy,  Avengers: Infinity War - Part I,1
+Oldboy,Bad Boys,1
+Oldboy,Bad Teacher,1
+Oldboy,Fast Food Nation,1
+Rio,21 Jump Street,3
+Rio,Alvin and the Chipmunks: Chipwrecked,1
+Rio,Avengers: Infinity War - Part I,2
+Rio,Bad Boys,2
+Rio,Bad Teacher,1
+Rio,Battle: Los Angeles,1
+Rio,Bridesmaids,3
+Rio,Cars 2,2
+Rio,Green Lantern,1
+Rio,Thor,2
+Thor,21 Jump Street,12
+Thor,Atlas Shrugged: Part 1,1
+Thor,Avengers: Infinity War - Part I,6
+Thor,Bad Boys,8
+Thor,Bad Teacher,6
+Thor,Battle: Los Angeles,4
+Thor,Bridesmaids,9
+Thor,Captain America,2
+Thor,Carnage,2
+Thor,Cars 2,2
+Thor,Green Lantern,10
+Thor,Rio,2
